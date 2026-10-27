@@ -1,0 +1,1001 @@
+id,nome,cpf,cidade,idade,altura
+1,Dr. Pedro Miguel da Costa,023.147.698-13,Ubatuba,46,1.71
+2,Oliver Aparecida,628.519.437-82,Ubatuba,15,2.14
+3,Thiago Silveira,390.284.571-60,Varginha,48,1.59
+4,Raul Mendonça,021.987.436-04,Ubatuba,38,1.63
+5,Nina Silva,831.942.705-32,Rio de Janeiro,32,1.5
+6,Letícia Aparecida,902.875.413-04,Guarapari,32,2.12
+7,Luna Azevedo,734.520.918-05,Belo Horizonte,41,1.82
+8,Agatha Vasconcelos,610.739.584-93,Rio de Janeiro,35,2.11
+9,Alana Costela,827.431.659-28,Ubatuba,20,1.73
+10,Dr. Bento Mendes,395.417.862-19,Salvador,46,1.63
+11,Lara Alves,651.470.839-01,Ubatuba,35,1.71
+12,Vinicius Montenegro,206.859.147-20,Belo Horizonte,46,1.92
+13,Vinícius Pimenta,724.198.053-05,Belo Horizonte,42,2.08
+14,Lara Costa,907.851.324-14,Varginha,32,2.15
+15,Srta. Rebeca Silva,736.014.289-03,Guarapari,42,1.83
+16,Heloísa Cassiano,163.579.204-52,Guarapari,41,1.53
+17,Luiza Pereira,854.097.136-48,Varginha,23,1.93
+18,Maria Laura Abreu,648.572.031-62,Salvador,36,1.89
+19,Manuela Aragão,486.103.572-44,Rio de Janeiro,16,2.04
+20,Gabriela Viana,624.938.715-37,Varginha,33,1.75
+21,Sr. Gael Silveira,741.605.938-01,Rio de Janeiro,48,1.58
+22,Enzo Gabriel Montenegro,809.143.726-96,Salvador,15,1.56
+23,Srta. Bella Leão,956.412.078-02,Guarapari,41,1.66
+24,Lívia Camargo,428.301.697-78,Salvador,26,1.7
+25,Kamilly Azevedo,301.286.497-04,Guarapari,16,1.55
+26,Sarah Silva,576.940.812-01,Rio de Janeiro,48,2.14
+27,Mariah Jesus,247.156.903-06,Rio de Janeiro,50,2.13
+28,Manuella das Neves,479.208.651-58,Ubatuba,40,1.65
+29,Sra. Aylla Cardoso,674.092.853-38,Salvador,48,1.88
+30,Noah Carvalho,029.875.136-40,Belo Horizonte,45,2.04
+31,Sr. Davi Luiz Montenegro,703.451.826-26,Guarapari,27,1.65
+32,Maria Alice Leão,036.495.712-34,Belo Horizonte,46,2.13
+33,Sra. Luara Alves,795.034.162-99,Rio de Janeiro,18,2.07
+34,Sr. Rhavi Silveira,249.386.750-56,Guarapari,30,1.55
+35,Dra. Maria Júlia Martins,619.208.357-68,Varginha,35,1.79
+36,Alexia Lima,160.732.489-03,Belo Horizonte,41,1.6
+37,Pietra Brito,561.483.207-62,Ubatuba,24,1.64
+38,Juliana Pacheco,354.782.109-60,Varginha,44,2.01
+39,Gabrielly Santos,254.306.198-33,Guarapari,41,1.86
+40,Maria Eduarda Ramos,941.536.207-34,Belo Horizonte,15,1.81
+41,Felipe Borges,347.816.209-22,Salvador,48,1.8
+42,Ryan da Conceição,946.027.318-13,Belo Horizonte,40,2.02
+43,Ravy Ramos,487.019.326-40,Varginha,32,1.87
+44,Diego das Neves,795.813.246-82,Ubatuba,20,2.14
+45,Maysa da Paz,891.023.476-87,Varginha,16,1.81
+46,Levi Ribeiro,916.283.754-00,Ubatuba,16,1.9
+47,Dr. Samuel Farias,032.547.689-65,Guarapari,25,1.52
+48,Enzo Gabriel Abreu,702.615.348-07,Guarapari,37,2.13
+49,Theodoro Ribeiro,172.938.405-60,Ubatuba,34,1.75
+50,João Lucas Rodrigues,467.028.915-20,Rio de Janeiro,25,1.79
+51,Luiz Miguel Nogueira,814.520.936-60,Guarapari,37,1.72
+52,Theo Melo,753.629.481-64,Belo Horizonte,42,1.59
+53,Ayla Alves,209.783.451-50,Guarapari,49,1.9
+54,Anna Liz Abreu,670.524.938-29,Salvador,50,1.52
+55,Aurora Araújo,620.718.495-58,Belo Horizonte,45,2.06
+56,João Vitor Vasconcelos,439.786.251-64,Guarapari,34,2.02
+57,Ana Lívia Moura,541.308.792-60,Varginha,30,2.01
+58,Antônio Carvalho,724.968.150-85,Varginha,46,1.6
+59,João Guilherme da Rocha,463.718.052-07,Rio de Janeiro,35,1.76
+60,Hellena Martins,685.047.329-83,Salvador,17,1.99
+61,Sara Peixoto,982.601.347-13,Ubatuba,22,1.67
+62,Cauã Almeida,814.203.957-50,Guarapari,43,1.58
+63,Benjamin Duarte,256.391.048-05,Belo Horizonte,48,1.54
+64,Luiz Otávio Campos,083.659.471-10,Rio de Janeiro,37,2.1
+65,Sophie Pimenta,416.920.785-85,Varginha,34,2.08
+66,Léo Araújo,806.134.592-70,Ubatuba,46,1.56
+67,Maria Alice Fonseca,692.874.035-38,Belo Horizonte,48,1.65
+68,André Correia,953.628.017-59,Rio de Janeiro,48,1.84
+69,Antonella Lopes,526.149.837-64,Ubatuba,22,1.96
+70,Luara Rodrigues,035.897.462-38,Guarapari,21,2.05
+71,José Ramos,124.379.086-50,Ubatuba,37,1.59
+72,Helena Almeida,574.291.806-20,Rio de Janeiro,40,1.52
+73,Brayan da Rocha,782.406.513-80,Salvador,46,1.62
+74,Melissa Macedo,198.256.430-05,Varginha,17,1.74
+75,Matteo Correia,608.273.945-00,Rio de Janeiro,23,1.83
+76,Dra. Melina Cavalcanti,108.476.253-62,Rio de Janeiro,25,1.55
+77,Anthony Gabriel Siqueira,208.549.371-88,Guarapari,37,1.91
+78,Maria Isis Rezende,517.962.843-19,Rio de Janeiro,48,2.13
+79,Emanuelly Moraes,367.205.418-62,Belo Horizonte,21,1.72
+80,Joana Ferreira,698.143.502-06,Ubatuba,29,1.71
+81,Sr. Valentim Lima,352.861.907-40,Salvador,21,1.75
+82,Gael Viana,610.238.974-31,Guarapari,46,1.89
+83,Lorena Ferreira,819.674.025-58,Belo Horizonte,49,2.12
+84,Gabrielly Fogaça,213.675.849-73,Ubatuba,23,1.57
+85,Gabriela Costa,092.156.487-20,Guarapari,18,2.15
+86,Ana Liz Cunha,278.695.401-02,Varginha,24,2.11
+87,Bruna Sampaio,704.259.138-05,Ubatuba,38,1.56
+88,Maria Cecília Câmara,597.638.124-37,Varginha,41,1.85
+89,Maria Flor Viana,065.342.187-71,Salvador,15,1.58
+90,Pedro Henrique Macedo,037.485.196-48,Ubatuba,47,1.91
+91,Nina Moreira,643.781.950-20,Ubatuba,40,2.02
+92,Calebe Montenegro,364.175.902-16,Varginha,47,1.55
+93,Agatha Brito,568.340.219-06,Guarapari,47,1.61
+94,Nicolas Freitas,987.501.234-32,Guarapari,31,1.65
+95,Dra. Juliana Porto,261.578.493-55,Belo Horizonte,22,1.55
+96,Dr. Davi Pinto,572.369.018-30,Ubatuba,50,1.81
+97,Dra. Liz Duarte,402.931.685-98,Varginha,34,1.68
+98,Lucca da Rosa,874.609.231-50,Guarapari,50,1.65
+99,Isabela Cirino,439.185.267-55,Guarapari,49,1.92
+100,Ryan Gomes,205.867.149-01,Ubatuba,22,1.5
+101,Davi Luiz Fonseca,781.625.340-08,Ubatuba,24,1.64
+102,Théo Andrade,359.807.641-00,Belo Horizonte,15,1.51
+103,Nicolas Azevedo,925.403.761-34,Belo Horizonte,37,1.89
+104,Luiz Gustavo Barros,049.716.825-11,Ubatuba,43,1.52
+105,Sabrina Rezende,783.601.425-80,Belo Horizonte,49,1.85
+106,João Aragão,014.375.682-62,Salvador,28,1.99
+107,Bryan Pires,764.952.830-83,Ubatuba,33,2.09
+108,Sr. João Felipe da Cunha,420.179.638-87,Ubatuba,34,2.02
+109,Giovanna Moura,350.428.679-29,Belo Horizonte,18,1.8
+110,Rafaela Pinto,487.163.592-91,Belo Horizonte,50,2.09
+111,Eduardo Moraes,249.567.801-76,Ubatuba,38,1.53
+112,Sophie da Mata,618.390.745-66,Belo Horizonte,49,2.11
+113,Dr. Carlos Eduardo Barros,154.278.396-82,Ubatuba,50,2.05
+114,Ravi Dias,301.859.476-20,Varginha,41,2.08
+115,Sr. Arthur Santos,602.385.719-12,Varginha,27,1.51
+116,Cauã Cunha,792.801.634-69,Ubatuba,21,1.54
+117,Luísa Aragão,857.340.921-50,Varginha,27,1.66
+118,Benício Barros,364.821.079-31,Belo Horizonte,46,2.1
+119,Lucas Novais,397.102.845-41,Belo Horizonte,34,1.77
+120,Cecilia Vieira,961.458.270-76,Rio de Janeiro,49,1.65
+121,Emanuelly Ferreira,745.286.130-26,Ubatuba,25,1.54
+122,Hellena Gonçalves,130.872.495-05,Salvador,36,1.73
+123,Pedro Henrique Cavalcante,863.512.470-71,Belo Horizonte,44,1.61
+124,Sr. Pedro Oliveira,658.041.932-60,Ubatuba,29,1.62
+125,Sr. Mathias Nascimento,529.804.736-00,Varginha,44,2.11
+126,Kamilly Câmara,618.795.042-94,Ubatuba,24,2.13
+127,Henrique da Cunha,864.052.793-83,Varginha,34,1.78
+128,Sr. Diogo Pastor,049.578.162-20,Ubatuba,32,2.01
+129,Amanda Dias,951.240.367-61,Salvador,32,1.95
+130,Marcela Cassiano,678.503.194-00,Ubatuba,29,2.04
+131,Ana Lívia Andrade,167.450.289-30,Salvador,24,2.12
+132,Ísis Carvalho,138.529.046-33,Varginha,47,1.85
+133,Levi Sousa,093.165.872-12,Belo Horizonte,40,1.8
+134,Gustavo Barros,064.519.783-10,Guarapari,34,1.75
+135,Bruno Souza,123.564.987-37,Rio de Janeiro,20,2.11
+136,Davi Miguel Santos,048.753.912-50,Belo Horizonte,28,1.82
+137,Léo Melo,312.409.658-42,Rio de Janeiro,25,1.78
+138,Bianca Ribeiro,873.954.026-00,Varginha,41,1.82
+139,Luiz Fernando Garcia,280.543.769-10,Varginha,26,1.6
+140,Mariane Cavalcanti,462.580.791-30,Guarapari,50,1.69
+141,Bella Brito,615.783.429-37,Guarapari,36,1.89
+142,Srta. Maria Eduarda Fogaça,342.570.816-35,Belo Horizonte,29,1.53
+143,Srta. Maitê Mendonça,876.025.349-56,Varginha,47,1.96
+144,João Miguel da Luz,325.607.984-92,Ubatuba,47,1.62
+145,Davi Miguel Carvalho,013.675.248-90,Rio de Janeiro,35,2.07
+146,André Novais,256.984.037-83,Ubatuba,25,1.78
+147,Daniel Alves,340.975.628-00,Guarapari,23,1.86
+148,Melissa Dias,278.015.496-94,Rio de Janeiro,17,2.0
+149,Sr. Valentim Cavalcanti,653.982.041-06,Ubatuba,20,1.95
+150,Srta. Kamilly Melo,798.234.165-91,Rio de Janeiro,45,1.82
+151,Dr. Marcos Vinicius Câmara,695.147.823-64,Rio de Janeiro,36,2.15
+152,Juliana da Cunha,150.267.839-02,Ubatuba,15,1.65
+153,Sra. Beatriz Costa,537.491.286-00,Belo Horizonte,32,1.86
+154,Manuella Brito,869.152.073-68,Belo Horizonte,41,1.77
+155,Sr. Yan Montenegro,342.671.908-87,Ubatuba,44,1.67
+156,Ana Barros,693.148.702-78,Varginha,42,2.01
+157,Sr. Carlos Eduardo Vargas,137.406.285-53,Rio de Janeiro,38,1.65
+158,Leandro Jesus,405.927.168-30,Rio de Janeiro,34,1.67
+159,Sra. Stephany das Neves,684.739.102-22,Belo Horizonte,18,1.92
+160,Dr. Lorenzo Moura,730.986.415-84,Salvador,25,2.02
+161,Nicole Casa Grande,291.846.507-02,Varginha,49,1.86
+162,Enzo Gabriel Garcia,850.216.439-24,Rio de Janeiro,34,1.69
+163,Gabrielly Rezende,576.834.102-17,Belo Horizonte,48,1.59
+164,Clara Pacheco,382.509.617-30,Salvador,19,1.95
+165,Vinicius Pereira,064.527.813-08,Varginha,17,2.01
+166,Milena Castro,658.423.097-00,Rio de Janeiro,47,1.79
+167,Rafael da Conceição,614.832.579-91,Ubatuba,35,1.89
+168,Ayla Sá,086.315.724-62,Belo Horizonte,24,1.86
+169,Hellena Vieira,159.602.348-15,Ubatuba,21,2.13
+170,Isaque Farias,962.504.817-02,Salvador,23,1.88
+171,Ana Oliveira,596.371.042-16,Salvador,50,1.6
+172,Caio Cavalcanti,401.987.236-87,Ubatuba,47,1.54
+173,Maria Fernanda Albuquerque,813.964.072-78,Belo Horizonte,24,1.67
+174,Enrico Albuquerque,954.318.620-06,Guarapari,21,1.54
+175,João Camargo,309.275.481-60,Belo Horizonte,21,1.53
+176,Pedro Miguel Melo,378.016.259-86,Varginha,24,2.14
+177,Ísis Vasconcelos,075.189.364-10,Rio de Janeiro,35,1.58
+178,Sarah Pimenta,724.138.950-60,Varginha,40,1.8
+179,Vicente Araújo,206.487.193-40,Belo Horizonte,36,1.96
+180,Ana Sophia Monteiro,365.208.941-33,Guarapari,31,1.83
+181,Aylla Marques,145.306.279-34,Guarapari,18,2.11
+182,Melina Vasconcelos,861.295.740-02,Ubatuba,45,1.64
+183,Daniela Duarte,098.634.271-87,Ubatuba,15,2.12
+184,Thiago Cavalcante,783.649.051-39,Salvador,38,1.66
+185,Breno Cassiano,869.513.472-55,Guarapari,33,2.01
+186,Ana Lívia Aragão,187.529.304-32,Ubatuba,44,1.63
+187,Ana Clara Sales,542.690.137-61,Guarapari,31,1.95
+188,Cecília Novaes,560.482.793-29,Rio de Janeiro,43,1.64
+189,Dr. Valentim Sampaio,761.593.840-66,Ubatuba,23,1.97
+190,Mathias Cirino,527.086.493-29,Salvador,47,1.76
+191,Gabriel Albuquerque,812.754.396-91,Belo Horizonte,46,1.98
+192,Lara Sá,638.704.529-00,Salvador,16,1.85
+193,Srta. Manuela da Costa,507.629.438-74,Belo Horizonte,33,1.73
+194,Pietro Barbosa,601.758.392-12,Varginha,49,1.66
+195,Olivia da Rocha,062.514.397-34,Salvador,36,1.98
+196,Agatha Rios,953.178.042-05,Rio de Janeiro,25,1.7
+197,Antony Costela,581.639.402-98,Ubatuba,22,1.97
+198,Carlos Eduardo Barros,610.483.752-26,Belo Horizonte,41,1.58
+199,Yan Araújo,384.961.052-70,Belo Horizonte,34,1.88
+200,Danilo Cunha,973.625.180-21,Salvador,24,1.71
+201,Heloísa Barbosa,692.304.815-05,Belo Horizonte,28,1.96
+202,Maitê Carvalho,435.091.672-52,Belo Horizonte,37,1.65
+203,Sr. Thales Nunes,930.164.725-70,Ubatuba,46,2.06
+204,Leonardo Pereira,713.958.204-14,Guarapari,29,1.59
+205,Fernando Pereira,539.081.726-59,Ubatuba,25,1.66
+206,Dra. Sara da Conceição,493.182.650-42,Salvador,25,1.73
+207,Srta. Daniela Gomes,183.062.945-05,Belo Horizonte,26,2.1
+208,Carolina Novaes,673.941.802-04,Varginha,19,2.1
+209,Sra. Amanda Mendes,531.784.069-48,Belo Horizonte,22,1.99
+210,Sr. João Gabriel Pastor,872.904.163-50,Varginha,17,1.85
+211,Gabriel Viana,513.247.980-41,Guarapari,32,1.54
+212,Ryan Correia,478.936.150-01,Rio de Janeiro,29,2.13
+213,Antony Machado,681.527.493-46,Belo Horizonte,21,2.01
+214,Vinícius Rios,814.739.605-84,Belo Horizonte,26,1.52
+215,Juan Aparecida,569.403.728-65,Rio de Janeiro,22,2.13
+216,Isaac Cavalcante,391.705.864-20,Varginha,31,1.74
+217,Olivia Montenegro,164.783.905-00,Belo Horizonte,17,1.66
+218,Maria Liz Freitas,579.062.814-11,Varginha,39,1.65
+219,Bryan Ramos,870.251.693-40,Rio de Janeiro,44,1.55
+220,Bella da Cruz,572.613.084-71,Salvador,33,2.03
+221,Ryan Moura,287.910.546-30,Guarapari,24,1.6
+222,Juan da Mota,970.132.548-60,Rio de Janeiro,18,1.76
+223,Josué Castro,914.057.863-10,Guarapari,46,1.81
+224,Nicole Cassiano,740.593.628-83,Salvador,17,2.11
+225,Amanda Macedo,513.749.028-88,Guarapari,31,1.58
+226,Júlia Marques,694.278.301-31,Belo Horizonte,45,2.12
+227,Srta. Stella Casa Grande,819.465.732-64,Guarapari,19,2.09
+228,Pietro Moreira,107.258.634-71,Ubatuba,37,1.6
+229,Arthur Gabriel das Neves,591.436.027-70,Salvador,45,1.9
+230,Dr. André Azevedo,096.517.238-40,Rio de Janeiro,17,1.92
+231,Stephany da Mata,918.374.056-20,Belo Horizonte,30,1.57
+232,Yago Correia,243.710.865-35,Belo Horizonte,26,1.79
+233,Rodrigo Casa Grande,534.802.961-06,Ubatuba,26,1.64
+234,Valentina Farias,027.319.684-78,Ubatuba,25,1.69
+235,Ravi Freitas,768.195.230-68,Rio de Janeiro,45,1.55
+236,Letícia Barbosa,593.102.786-68,Guarapari,35,1.53
+237,Lunna Garcia,109.243.657-06,Guarapari,44,1.98
+238,Eloá Pires,392.610.785-59,Belo Horizonte,30,1.94
+239,Lucca Campos,120.748.593-41,Rio de Janeiro,27,2.14
+240,Ana Beatriz Azevedo,390.568.241-98,Belo Horizonte,27,2.07
+241,Isabel Montenegro,764.051.928-49,Rio de Janeiro,44,1.67
+242,Sr. Benjamin Monteiro,529.130.647-52,Salvador,30,1.7
+243,Sra. Bianca Barros,136.208.947-87,Varginha,22,2.08
+244,Yuri Cassiano,732.658.901-12,Guarapari,25,1.85
+245,Antony Silveira,596.437.081-01,Rio de Janeiro,34,1.91
+246,Srta. Maria Júlia Leão,013.245.876-44,Ubatuba,42,1.92
+247,Rafaela Cassiano,475.863.012-71,Varginha,36,2.03
+248,Joaquim Castro,178.504.329-32,Rio de Janeiro,50,1.9
+249,Ana Julia Melo,039.286.471-13,Salvador,50,1.85
+250,João Pedro Pereira,569.314.820-33,Belo Horizonte,30,2.14
+251,Fernando Moraes,596.387.241-37,Guarapari,18,2.15
+252,Amanda das Neves,017.482.539-05,Ubatuba,15,1.99
+253,Rhavi Nogueira,564.902.873-74,Rio de Janeiro,20,2.01
+254,Stella Brito,593.476.102-16,Rio de Janeiro,17,1.64
+255,Mariah Borges,791.860.235-86,Varginha,41,2.04
+256,Ágatha Siqueira,624.517.380-90,Varginha,27,2.1
+257,Esther Câmara,905.624.731-06,Ubatuba,29,1.81
+258,Pietro Rodrigues,938.604.251-70,Salvador,24,1.7
+259,Diego da Paz,137.628.495-28,Rio de Janeiro,26,1.92
+260,Cauã Almeida,057.382.941-14,Belo Horizonte,46,2.01
+261,Ana Julia Rezende,789.532.641-46,Ubatuba,40,2.14
+262,Maria Helena Pereira,254.796.108-30,Guarapari,40,1.93
+263,Liz Moreira,751.863.924-64,Ubatuba,15,2.02
+264,Amanda da Rocha,201.938.765-40,Salvador,38,1.97
+265,Maria Julia Nascimento,346.105.879-39,Varginha,34,1.51
+266,Pedro Jesus,562.890.371-02,Varginha,31,1.56
+267,Liam da Conceição,792.158.046-76,Salvador,34,1.79
+268,Ana Lívia Ferreira,607.245.139-06,Rio de Janeiro,26,1.75
+269,Maria Luísa das Neves,316.409.852-98,Salvador,25,1.81
+270,Liam Almeida,316.789.052-59,Salvador,22,2.13
+271,Sra. Larissa Borges,978.054.632-47,Ubatuba,27,1.89
+272,Manuela Ribeiro,027.431.985-32,Rio de Janeiro,46,2.03
+273,Maria Liz Pacheco,729.156.480-85,Varginha,31,2.13
+274,Pedro Henrique Carvalho,104.598.267-94,Salvador,27,1.72
+275,Srta. Brenda Caldeira,638.459.120-06,Varginha,18,1.8
+276,Dr. Eduardo Vargas,657.012.849-30,Ubatuba,39,1.73
+277,Rafael Cirino,086.342.915-70,Ubatuba,29,1.51
+278,Daniel da Costa,472.315.680-17,Guarapari,25,1.56
+279,Dra. Ana Sophia Porto,903.768.524-29,Belo Horizonte,19,1.85
+280,Cauê Sampaio,579.863.401-93,Salvador,19,1.89
+281,Olívia da Mota,163.902.857-95,Belo Horizonte,42,2.07
+282,Camila Dias,536.874.291-64,Ubatuba,41,1.8
+283,Sra. Cecília Almeida,204.978.635-29,Rio de Janeiro,46,1.93
+284,Lavínia das Neves,584.917.230-05,Ubatuba,16,1.99
+285,Maria Luísa Fogaça,531.907.268-68,Belo Horizonte,29,1.52
+286,Asafe Silva,569.237.184-73,Varginha,15,1.97
+287,Bianca Farias,795.160.482-85,Belo Horizonte,32,1.93
+288,José Pedro Sampaio,174.239.065-06,Salvador,35,1.9
+289,Benjamim Moraes,974.128.036-03,Salvador,36,1.66
+290,Dr. André Cirino,469.872.153-91,Salvador,29,2.07
+291,Gustavo Novaes,287.950.314-05,Varginha,22,1.62
+292,Joana Andrade,842.079.653-00,Salvador,28,1.8
+293,Sr. Enzo Garcia,650.839.472-00,Guarapari,27,1.84
+294,Dr. Marcelo Barbosa,371.460.928-87,Ubatuba,17,1.83
+295,Anna Liz Silva,638.452.791-09,Ubatuba,42,1.73
+296,Luna Novais,895.172.360-77,Rio de Janeiro,26,1.69
+297,Dr. Gael Oliveira,692.845.703-10,Guarapari,50,1.93
+298,Davi Miguel Freitas,357.942.018-60,Salvador,50,2.12
+299,Srta. Maria Luísa Barros,921.865.043-24,Salvador,17,1.57
+300,Sofia Peixoto,650.812.793-40,Salvador,48,1.66
+301,José Pedro Macedo,325.846.719-64,Belo Horizonte,30,1.67
+302,Alana Garcia,910.863.725-30,Guarapari,30,1.89
+303,Dra. Carolina Moura,052.348.917-04,Rio de Janeiro,16,1.85
+304,Melissa Albuquerque,502.743.681-53,Guarapari,35,1.93
+305,Alícia da Cunha,756.329.108-30,Rio de Janeiro,19,1.97
+306,Isabela Caldeira,968.342.105-98,Rio de Janeiro,42,1.73
+307,José Pedro da Costa,529.346.701-80,Salvador,18,1.87
+308,Maria Eduarda Pires,312.906.578-40,Rio de Janeiro,32,1.75
+309,Luiz Miguel Sá,709.148.362-69,Ubatuba,15,2.09
+310,Dr. Arthur Miguel Leão,572.630.849-29,Varginha,23,2.07
+311,Eduarda Borges,258.096.374-00,Belo Horizonte,25,1.87
+312,Sra. Natália da Mota,162.390.475-70,Varginha,31,1.71
+313,João Felipe Leão,954.807.312-97,Salvador,17,1.57
+314,Heloisa Mendonça,790.214.658-76,Rio de Janeiro,25,1.85
+315,Manuella Marques,753.906.812-40,Ubatuba,33,1.69
+316,Sabrina Barbosa,682.714.309-04,Ubatuba,43,1.69
+317,Sra. Evelyn Guerra,431.985.072-60,Guarapari,15,1.97
+318,Caio Pacheco,302.518.967-30,Salvador,20,1.87
+319,Rafaela Dias,738.562.041-80,Varginha,34,1.92
+320,Fernando das Neves,485.219.637-00,Guarapari,16,2.11
+321,Melina Campos,402.687.935-65,Salvador,28,1.76
+322,Dr. Alexandre Alves,534.806.217-08,Guarapari,23,1.86
+323,Olivia Macedo,906.548.271-76,Belo Horizonte,38,1.73
+324,Diego Vargas,346.207.581-08,Ubatuba,35,2.02
+325,Srta. Ana Lívia Aragão,410.253.689-24,Guarapari,29,2.14
+326,Antony Mendonça,183.924.605-70,Rio de Janeiro,27,1.65
+327,Henrique Oliveira,027.346.891-03,Salvador,19,2.03
+328,Luiz Otávio Vasconcelos,347.506.289-56,Guarapari,42,1.85
+329,Dr. Davi Miguel Aragão,045.167.392-16,Guarapari,36,2.12
+330,Pedro Lucas Teixeira,853.124.609-15,Guarapari,28,2.09
+331,Dr. Pedro Lucas Nogueira,106.423.589-15,Rio de Janeiro,36,1.54
+332,Maria Fernanda Souza,028.134.975-41,Varginha,26,2.06
+333,João Felipe Alves,168.574.930-57,Rio de Janeiro,35,2.02
+334,Dr. Luiz Gustavo Farias,815.294.670-20,Ubatuba,35,2.07
+335,Sr. Luigi Costela,702.681.439-78,Guarapari,49,1.66
+336,Bryan Caldeira,467.523.018-08,Salvador,33,1.88
+337,Sra. Jade Dias,634.051.728-53,Belo Horizonte,23,1.53
+338,Asafe Rodrigues,351.079.248-32,Rio de Janeiro,44,1.71
+339,Lunna Caldeira,981.532.760-77,Belo Horizonte,18,2.01
+340,Emanuel Andrade,249.518.037-04,Varginha,18,1.68
+341,Emanuel Barros,327.981.045-05,Ubatuba,35,1.9
+342,Mariane Vasconcelos,972.846.301-40,Salvador,48,1.96
+343,Sr. José Miguel da Cruz,015.726.934-52,Guarapari,46,1.88
+344,Dra. Manuella Porto,015.432.798-05,Salvador,15,1.89
+345,João Gabriel Guerra,970.162.348-78,Guarapari,45,1.66
+346,Sofia Ramos,283.049.751-14,Belo Horizonte,35,1.5
+347,Evelyn Siqueira,169.378.025-95,Rio de Janeiro,39,1.99
+348,Mathias da Rosa,465.892.307-65,Ubatuba,38,1.93
+349,Heloísa Cirino,053.961.728-86,Belo Horizonte,23,1.59
+350,Ana Clara Castro,452.139.687-91,Ubatuba,18,1.93
+351,Sofia das Neves,104.765.329-06,Belo Horizonte,29,1.83
+352,Cecilia da Luz,947.635.018-01,Varginha,23,1.87
+353,Fernanda Garcia,149.580.376-75,Varginha,41,1.74
+354,Sr. André Aragão,834.791.265-37,Ubatuba,47,1.94
+355,Gustavo Carvalho,867.129.504-49,Rio de Janeiro,50,2.07
+356,Gael Pires,389.615.472-91,Varginha,35,2.02
+357,Luana da Costa,189.067.432-03,Ubatuba,36,1.62
+358,Dr. Bernardo Viana,768.453.910-84,Belo Horizonte,42,1.86
+359,Antony Leão,439.570.861-75,Belo Horizonte,17,1.65
+360,Sr. Pietro Castro,106.842.395-15,Varginha,34,1.85
+361,Bianca Vieira,490.123.678-40,Belo Horizonte,26,1.56
+362,Guilherme Borges,984.076.135-84,Rio de Janeiro,29,1.84
+363,Kamilly Souza,846.312.905-60,Rio de Janeiro,17,1.85
+364,Nicole Lopes,794.238.516-73,Salvador,28,1.81
+365,Catarina Cavalcante,605.493.718-93,Guarapari,33,1.53
+366,Marcos Vinicius Pastor,948.503.716-39,Varginha,48,1.88
+367,Heloísa das Neves,671.539.420-25,Rio de Janeiro,42,1.68
+368,Leonardo das Neves,934.761.208-13,Belo Horizonte,49,1.6
+369,Luiz Miguel Martins,837.125.064-90,Salvador,37,1.94
+370,Vicente Pimenta,679.850.213-02,Rio de Janeiro,35,1.66
+371,Maria Liz Garcia,653.079.281-30,Belo Horizonte,38,1.88
+372,Heloísa da Paz,064.835.217-07,Guarapari,24,1.74
+373,Augusto da Conceição,671.053.248-80,Salvador,29,1.86
+374,Larissa Monteiro,608.732.159-40,Guarapari,26,2.08
+375,Erick das Neves,301.495.827-14,Guarapari,46,1.92
+376,Srta. Maria Luísa Pimenta,907.368.245-29,Varginha,42,1.98
+377,Sr. Miguel da Mata,790.218.543-41,Rio de Janeiro,46,2.09
+378,Dra. Olívia Novais,829.560.743-00,Rio de Janeiro,31,1.56
+379,Dr. Noah da Mata,576.392.048-10,Guarapari,15,1.75
+380,Vitor Gabriel Pacheco,345.092.786-83,Salvador,21,1.53
+381,Rhavi Nunes,496.317.580-01,Ubatuba,17,1.58
+382,Carlos Eduardo Lopes,204.593.871-97,Rio de Janeiro,35,1.77
+383,Ana Laura Camargo,964.182.073-78,Guarapari,18,1.62
+384,Benjamim Fogaça,849.065.732-74,Rio de Janeiro,18,1.66
+385,Sra. Ana Lívia Almeida,920.685.374-00,Guarapari,34,1.98
+386,Julia Sá,471.396.805-66,Rio de Janeiro,34,1.85
+387,Letícia Vasconcelos,672.453.891-28,Guarapari,30,2.09
+388,João Pedro Silva,149.360.258-60,Rio de Janeiro,39,1.59
+389,Arthur Miguel da Paz,729.410.683-50,Ubatuba,48,1.95
+390,Maysa Pimenta,786.913.052-40,Guarapari,33,2.05
+391,Sr. Mathias Ferreira,108.572.396-86,Varginha,47,1.66
+392,João Lucas Rocha,183.520.469-42,Salvador,47,2.02
+393,Dr. Theo Porto,840.352.196-06,Rio de Janeiro,50,2.06
+394,Sr. Rael Rodrigues,192.847.356-37,Ubatuba,31,1.84
+395,Dra. Alana Ribeiro,324.985.167-19,Guarapari,47,1.96
+396,Maria Helena Leão,058.927.146-67,Varginha,36,1.69
+397,Luiz Henrique Novais,046.958.317-75,Rio de Janeiro,29,1.92
+398,Camila Borges,067.912.854-94,Salvador,27,1.84
+399,Dr. Rael Mendes,380.916.457-75,Salvador,28,1.78
+400,Diego Sampaio,538.904.162-33,Rio de Janeiro,44,1.74
+401,Ravy Andrade,698.157.243-55,Rio de Janeiro,36,2.06
+402,Maria Clara Machado,758.403.916-20,Salvador,39,1.68
+403,Ester Sampaio,087.536.249-47,Belo Horizonte,16,1.85
+404,Larissa Teixeira,768.390.142-31,Varginha,45,1.51
+405,Ayla Cardoso,627.149.083-22,Rio de Janeiro,18,2.13
+406,Henry Lopes,713.502.946-16,Salvador,39,2.07
+407,Matheus Silveira,872.039.146-31,Salvador,36,1.92
+408,Anthony Costa,532.780.641-35,Salvador,32,1.9
+409,Otto Gonçalves,591.726.840-11,Belo Horizonte,49,1.8
+410,Sr. Ian da Conceição,689.153.047-48,Belo Horizonte,15,2.01
+411,Sr. Asafe Rezende,927.560.438-00,Ubatuba,22,1.77
+412,Calebe Montenegro,518.603.924-15,Salvador,16,1.65
+413,Vicente Pereira,560.384.197-48,Belo Horizonte,27,1.67
+414,Laís Caldeira,726.310.849-69,Ubatuba,37,1.74
+415,Raquel Sousa,894.027.153-04,Varginha,15,1.7
+416,Daniel Costa,745.198.260-20,Ubatuba,42,2.12
+417,Rafaela Costela,562.843.071-44,Varginha,36,1.67
+418,Nicolas Porto,597.423.016-70,Ubatuba,37,2.09
+419,Sra. Ana Liz Cassiano,732.501.946-70,Guarapari,33,1.95
+420,Dra. Bárbara Nogueira,693.452.710-07,Guarapari,42,1.84
+421,Mathias Teixeira,275.089.346-10,Salvador,31,1.56
+422,Rael Silveira,498.310.672-31,Ubatuba,50,1.75
+423,Ana Laura Marques,265.318.904-60,Rio de Janeiro,39,2.09
+424,Melissa Cunha,987.304.125-79,Salvador,50,1.74
+425,Sra. Beatriz Ramos,298.154.670-85,Salvador,38,1.51
+426,Brenda Ferreira,012.537.849-14,Guarapari,17,1.6
+427,Gustavo Costela,193.827.540-32,Guarapari,24,1.56
+428,Manuella Cunha,716.054.329-70,Varginha,48,2.06
+429,João Vitor Castro,758.423.609-00,Belo Horizonte,20,1.61
+430,Elisa Monteiro,169.304.582-60,Rio de Janeiro,16,1.84
+431,Ravi Lucca da Cunha,549.372.816-82,Rio de Janeiro,27,1.55
+432,Alexandre Almeida,510.637.284-44,Salvador,30,2.03
+433,Pietra Rezende,193.057.824-50,Ubatuba,41,2.14
+434,Dr. Vitor Hugo Souza,798.564.231-55,Varginha,44,1.69
+435,Srta. Mariane Leão,432.087.956-29,Guarapari,22,2.06
+436,Cauê da Mata,241.750.689-02,Guarapari,46,1.85
+437,João Gabriel Correia,463.708.519-57,Ubatuba,20,1.91
+438,Lívia Castro,531.078.429-23,Belo Horizonte,44,1.61
+439,José Miguel Almeida,453.916.827-46,Belo Horizonte,50,2.14
+440,Srta. Sara Campos,573.689.401-75,Salvador,30,1.71
+441,Rodrigo Cavalcanti,347.165.829-73,Salvador,29,1.65
+442,Lívia Vasconcelos,738.024.169-96,Guarapari,17,1.93
+443,Leandro Cardoso,689.521.073-30,Guarapari,46,1.63
+444,Ana Julia Cunha,581.749.360-84,Rio de Janeiro,47,1.56
+445,Bruna Silva,239.657.408-65,Varginha,38,1.88
+446,Yago Brito,096.815.473-57,Varginha,19,2.08
+447,Diego Pacheco,174.638.290-22,Varginha,22,1.88
+448,Dr. Dom Almeida,672.834.091-22,Varginha,41,1.53
+449,Sra. Ana Carolina Silveira,978.564.213-55,Guarapari,15,1.84
+450,Sr. Josué Lima,410.786.593-20,Rio de Janeiro,48,1.61
+451,Raul Andrade,693.580.214-89,Salvador,15,1.7
+452,Letícia Sampaio,256.403.197-80,Varginha,43,2.14
+453,Ravi Lucca Vasconcelos,419.875.602-30,Rio de Janeiro,25,1.74
+454,Benicio da Costa,864.513.279-64,Belo Horizonte,23,1.62
+455,Júlia da Cunha,987.462.051-01,Guarapari,48,2.03
+456,Theo da Costa,214.978.305-32,Rio de Janeiro,27,2.13
+457,Maria Liz Moura,780.269.431-04,Ubatuba,40,1.64
+458,Lunna Cavalcante,621.495.870-76,Ubatuba,27,1.9
+459,Heloisa Camargo,067.239.145-70,Varginha,44,1.59
+460,Bento Ferreira,546.872.190-20,Ubatuba,20,2.1
+461,Matteo Silveira,905.467.321-43,Rio de Janeiro,49,1.52
+462,Sra. Stephany Camargo,452.807.316-17,Belo Horizonte,25,2.11
+463,Liz Casa Grande,736.892.514-19,Rio de Janeiro,20,2.12
+464,Bernardo Machado,621.389.504-33,Guarapari,21,1.83
+465,Arthur da Cunha,904.521.368-06,Varginha,41,1.59
+466,Luísa da Rocha,608.147.253-17,Salvador,49,1.83
+467,Cecilia Viana,149.386.057-75,Salvador,37,1.95
+468,Kevin Rios,958.026.314-06,Guarapari,44,1.72
+469,Isis Ribeiro,089.354.617-84,Ubatuba,49,1.86
+470,Guilherme Jesus,132.456.097-52,Varginha,36,1.94
+471,Elisa da Mota,641.589.032-89,Ubatuba,16,1.57
+472,Bruna Silveira,017.965.284-20,Rio de Janeiro,18,2.14
+473,Maria Barbosa,196.348.750-84,Ubatuba,36,1.84
+474,Maria Isis Moraes,325.089.617-95,Belo Horizonte,26,2.11
+475,Isadora Câmara,798.162.054-67,Guarapari,45,1.62
+476,Otto Cirino,704.695.218-30,Ubatuba,33,1.7
+477,Ana Laura Silva,826.901.754-01,Belo Horizonte,35,1.77
+478,Pietra Santos,986.314.520-33,Guarapari,44,1.98
+479,Olivia Andrade,351.740.268-08,Varginha,20,1.52
+480,Olivia Freitas,125.830.679-40,Ubatuba,23,1.92
+481,Esther Rios,152.793.806-95,Ubatuba,44,2.09
+482,Dra. Alícia Araújo,584.719.362-91,Rio de Janeiro,43,1.51
+483,Sra. Maitê Pires,156.287.390-30,Guarapari,35,2.0
+484,Maria Flor Cirino,508.692.374-38,Rio de Janeiro,15,1.99
+485,Jade da Conceição,714.268.359-73,Salvador,48,1.56
+486,Daniel Nunes,589.176.423-73,Salvador,30,1.84
+487,Diogo Sales,752.069.381-30,Salvador,22,2.08
+488,Cauê da Rocha,019.532.486-24,Varginha,37,1.96
+489,Catarina Pastor,916.230.784-31,Ubatuba,34,1.76
+490,Valentim Abreu,984.632.015-98,Ubatuba,42,2.13
+491,João Vitor da Cruz,326.751.948-91,Rio de Janeiro,50,2.11
+492,Sara Rezende,127.480.653-44,Guarapari,47,1.79
+493,Henry Ribeiro,043.816.257-90,Ubatuba,29,1.97
+494,Enzo Gabriel Viana,074.215.396-70,Ubatuba,48,1.67
+495,Vinícius Araújo,216.597.438-00,Belo Horizonte,39,1.75
+496,Mariah Aragão,153.046.872-80,Belo Horizonte,45,1.6
+497,Ana Cecília da Rocha,874.691.203-78,Salvador,49,1.62
+498,Thiago Dias,546.207.139-61,Belo Horizonte,36,1.86
+499,Alexia Cavalcante,925.860.741-49,Ubatuba,39,2.1
+500,Sr. Valentim Cassiano,847.293.156-00,Belo Horizonte,40,1.95
+501,Eduarda Cirino,975.168.340-84,Belo Horizonte,40,2.11
+502,Sr. Paulo Marques,143.967.850-20,Salvador,43,1.75
+503,Lorenzo Ferreira,843.267.519-91,Salvador,33,1.58
+504,Vinícius da Paz,102.346.578-71,Rio de Janeiro,48,1.74
+505,Lavínia Nogueira,685.274.139-73,Belo Horizonte,22,2.1
+506,Luana Novaes,703.684.915-01,Belo Horizonte,15,1.98
+507,Alexandre Alves,528.197.043-79,Rio de Janeiro,27,1.58
+508,Ana Lívia da Conceição,986.407.123-87,Belo Horizonte,38,1.75
+509,Apollo Farias,851.749.602-76,Varginha,46,2.02
+510,Vinicius Carvalho,905.761.382-40,Rio de Janeiro,27,1.7
+511,Luiz Gustavo das Neves,106.437.859-57,Rio de Janeiro,25,2.12
+512,Elisa Macedo,270.483.165-35,Belo Horizonte,38,2.0
+513,Marcelo Camargo,396.824.075-83,Rio de Janeiro,16,1.96
+514,Calebe da Mota,041.823.967-31,Belo Horizonte,33,1.52
+515,Emanuelly Nogueira,072.589.341-97,Salvador,24,1.76
+516,Luiz Fernando Lopes,986.501.342-89,Varginha,30,1.51
+517,Lara da Conceição,984.175.362-64,Varginha,43,1.92
+518,Eduarda Porto,051.397.642-61,Belo Horizonte,30,2.04
+519,Henry Gabriel Moraes,630.278.145-08,Varginha,25,1.84
+520,Dr. Benjamim Carvalho,573.928.410-41,Varginha,31,1.86
+521,Marcela Ferreira,201.397.546-52,Salvador,44,1.99
+522,Maria Fernanda da Conceição,742.150.638-17,Varginha,18,1.99
+523,Laís da Rocha,293.780.164-13,Belo Horizonte,19,1.63
+524,Thales Silveira,389.741.602-69,Salvador,48,2.01
+525,Gael Dias,507.894.261-02,Varginha,23,1.72
+526,Sr. Juan Cunha,173.425.680-07,Ubatuba,24,1.75
+527,Rael da Cunha,125.306.984-06,Rio de Janeiro,35,1.82
+528,Isabelly Vargas,467.291.308-22,Belo Horizonte,44,1.84
+529,Gabrielly Silveira,930.176.482-22,Varginha,19,2.13
+530,Julia Pastor,932.154.876-91,Ubatuba,15,1.91
+531,Breno Martins,839.261.745-28,Guarapari,42,1.54
+532,Maria Luísa Andrade,468.291.057-49,Guarapari,24,2.08
+533,Bernardo Silva,349.587.206-00,Salvador,50,1.9
+534,Ana Julia Cardoso,072.896.135-03,Salvador,49,1.83
+535,Davi Lucas Silva,509.637.284-74,Belo Horizonte,25,2.01
+536,Caroline Gonçalves,903.786.152-03,Ubatuba,39,1.51
+537,Heloísa Fonseca,963.142.078-78,Varginha,25,1.72
+538,Luiz Henrique Sousa,942.368.571-46,Salvador,21,2.04
+539,Maria Luísa Jesus,163.027.458-53,Salvador,24,2.01
+540,Nathan Oliveira,586.037.941-20,Belo Horizonte,20,1.61
+541,Sra. Luiza Montenegro,081.652.493-98,Belo Horizonte,41,1.96
+542,João Gabriel Melo,320.475.689-00,Salvador,37,2.08
+543,Cecilia Sousa,049.623.851-51,Ubatuba,47,2.15
+544,Gael Sousa,104.723.568-44,Guarapari,33,2.14
+545,Isabel Andrade,021.475.938-50,Belo Horizonte,24,1.6
+546,Maitê Novais,756.830.941-00,Belo Horizonte,36,1.52
+547,Cauã Rios,279.168.540-58,Belo Horizonte,18,1.7
+548,Sr. Vicente Siqueira,594.632.071-80,Ubatuba,34,1.71
+549,Paulo Alves,896.417.035-01,Guarapari,47,1.78
+550,Maysa Caldeira,103.679.285-40,Ubatuba,50,1.57
+551,Esther Pires,968.207.135-68,Belo Horizonte,38,1.7
+552,Rodrigo Cavalcanti,725.803.691-12,Ubatuba,21,1.61
+553,Raul Rezende,709.241.853-41,Varginha,19,1.78
+554,Erick Costa,439.276.018-96,Rio de Janeiro,50,1.53
+555,Anthony Novaes,793.510.684-39,Guarapari,30,2.05
+556,Oliver Fogaça,084.293.761-78,Salvador,44,2.05
+557,Sr. Ian Novaes,821.497.306-69,Guarapari,18,2.09
+558,Mirella Novaes,624.017.985-01,Salvador,38,1.78
+559,Sr. Danilo Novaes,659.417.208-58,Belo Horizonte,17,1.97
+560,Enzo Pereira,026.841.539-06,Guarapari,32,2.0
+561,Dra. Bella Cirino,536.807.241-44,Guarapari,32,1.54
+562,Alexia Monteiro,935.187.042-14,Salvador,49,1.95
+563,Pedro Camargo,107.642.358-26,Varginha,34,1.88
+564,Benjamin Rodrigues,830.192.567-12,Salvador,36,1.98
+565,Luara Cavalcanti,962.810.753-40,Varginha,35,1.94
+566,Sra. Marina Moreira,864.709.125-67,Varginha,41,2.01
+567,Dr. Henrique Sales,549.873.126-46,Belo Horizonte,21,1.84
+568,Larissa Monteiro,123.786.459-37,Rio de Janeiro,24,2.08
+569,Gabriela Pinto,729.186.045-85,Belo Horizonte,35,1.86
+570,Oliver Peixoto,476.582.391-19,Salvador,24,1.74
+571,Laura Cassiano,312.798.450-23,Rio de Janeiro,35,1.61
+572,Otto Moura,379.610.548-39,Guarapari,22,1.56
+573,Henry Gabriel da Luz,216.738.905-12,Guarapari,25,1.81
+574,Anthony Silveira,260.849.153-70,Rio de Janeiro,17,1.71
+575,Mariane Almeida,379.284.650-00,Ubatuba,21,1.93
+576,Anna Liz Ramos,916.478.325-19,Rio de Janeiro,22,1.9
+577,Ravi Moraes,108.276.539-21,Varginha,20,1.55
+578,Diego Duarte,518.329.604-98,Belo Horizonte,43,1.97
+579,Leonardo Azevedo,824.763.159-82,Guarapari,34,1.67
+580,Arthur Viana,184.920.375-04,Rio de Janeiro,38,2.05
+581,Renan Porto,487.593.061-57,Rio de Janeiro,17,1.59
+582,Rafael Guerra,187.043.652-08,Belo Horizonte,24,1.94
+583,José Pedro Vieira,065.841.973-01,Belo Horizonte,32,2.07
+584,Benjamin Silveira,975.804.612-85,Belo Horizonte,31,2.07
+585,Mariah Rios,762.453.801-62,Ubatuba,47,1.76
+586,Henrique Azevedo,346.192.750-34,Belo Horizonte,48,1.66
+587,Julia Peixoto,569.248.017-49,Belo Horizonte,45,1.57
+588,Maria Alice Rodrigues,037.592.184-23,Rio de Janeiro,38,1.52
+589,Heitor Borges,159.804.236-05,Ubatuba,39,2.02
+590,Luigi Fernandes,341.270.965-43,Varginha,40,1.82
+591,Rafaela Rocha,541.973.860-01,Varginha,40,1.62
+592,Melina da Rocha,974.306.185-10,Rio de Janeiro,36,1.59
+593,Mariane Vasconcelos,723.405.619-06,Salvador,46,1.58
+594,Elisa Borges,748.502.963-00,Varginha,45,1.87
+595,Brenda Correia,405.768.213-90,Guarapari,24,1.68
+596,Matheus Fernandes,983.607.254-38,Rio de Janeiro,33,2.07
+597,Gabrielly Oliveira,465.873.219-09,Guarapari,28,1.76
+598,Sra. Rebeca Souza,691.472.053-34,Ubatuba,16,2.07
+599,Isadora Melo,590.412.367-16,Rio de Janeiro,40,1.96
+600,Yago da Paz,149.362.508-05,Varginha,46,1.7
+601,Luiz Otávio Moraes,516.807.234-80,Salvador,36,1.78
+602,Thomas Cunha,314.256.097-16,Ubatuba,41,1.68
+603,José Pedro Correia,173.098.542-41,Ubatuba,47,1.99
+604,Ana Cecília Lopes,075.683.249-74,Varginha,20,2.0
+605,Henry Gabriel Campos,516.294.830-60,Salvador,40,1.54
+606,Ryan Ferreira,270.345.691-34,Guarapari,28,1.68
+607,Dra. Raquel Sampaio,169.023.458-05,Guarapari,17,1.92
+608,Vinícius Cavalcanti,496.102.857-67,Salvador,35,2.05
+609,Paulo Alves,619.375.042-80,Belo Horizonte,34,1.81
+610,Emanuelly Albuquerque,651.043.298-60,Ubatuba,27,1.78
+611,Benjamim Rios,406.592.813-33,Guarapari,17,1.66
+612,Milena Nascimento,395.124.870-04,Guarapari,25,1.8
+613,Arthur Miguel Nogueira,932.618.407-22,Varginha,26,1.74
+614,Mateus Cavalcante,905.186.743-39,Salvador,43,1.51
+615,Luiz Fernando Martins,064.173.825-08,Guarapari,32,1.68
+616,Sra. Ana Julia Dias,283.956.471-82,Rio de Janeiro,29,2.01
+617,Srta. Alana Pastor,036.281.594-15,Belo Horizonte,44,1.61
+618,Eloah Guerra,725.468.319-09,Ubatuba,24,1.83
+619,Anthony Gabriel da Costa,045.217.689-11,Guarapari,40,1.88
+620,Isabella Campos,130.542.679-70,Ubatuba,45,1.51
+621,Sra. Alícia Moura,092.415.873-50,Guarapari,19,1.58
+622,Sra. Alana Peixoto,037.542.986-74,Salvador,37,2.07
+623,Nathan Aragão,094.731.268-40,Salvador,44,1.73
+624,Sra. Ana Laura Pimenta,740.539.826-00,Rio de Janeiro,15,1.57
+625,Sr. Otto Pimenta,291.043.786-87,Belo Horizonte,21,2.11
+626,Ravi Lucca Fogaça,847.913.206-03,Varginha,41,1.71
+627,Dante Ramos,892.653.047-74,Salvador,47,2.09
+628,Cecília Freitas,317.486.259-00,Salvador,42,1.8
+629,Pietra Moraes,596.371.428-19,Salvador,44,2.06
+630,Nicole Fonseca,921.407.385-60,Salvador,49,1.53
+631,João Mendes,741.659.083-39,Belo Horizonte,28,1.55
+632,Fernando Pereira,614.950.783-10,Salvador,47,1.94
+633,Gabriela Santos,259.368.174-82,Salvador,17,2.12
+634,Julia da Cruz,794.531.682-46,Varginha,15,1.63
+635,Augusto Guerra,643.791.058-57,Varginha,47,1.88
+636,Ana Beatriz Guerra,641.532.809-33,Belo Horizonte,20,1.61
+637,Francisco Cunha,038.129.645-89,Salvador,20,1.67
+638,Dra. Anna Liz Borges,548.260.397-00,Salvador,20,1.97
+639,Rael Guerra,075.398.621-30,Salvador,24,1.75
+640,Alexandre Jesus,429.508.713-05,Ubatuba,20,1.69
+641,Valentim Rocha,396.517.480-01,Belo Horizonte,27,1.68
+642,José Montenegro,537.098.246-56,Salvador,26,1.99
+643,Bella Costa,516.809.234-98,Belo Horizonte,17,2.13
+644,Enzo Gabriel Melo,658.732.041-44,Guarapari,42,1.96
+645,Sr. André Jesus,146.208.597-02,Guarapari,42,1.74
+646,Igor Camargo,207.398.164-03,Ubatuba,49,1.81
+647,Ana Clara Cavalcanti,805.347.926-00,Belo Horizonte,24,2.01
+648,Gabriela das Neves,087.132.956-59,Ubatuba,47,1.56
+649,Davi Lucca Santos,843.207.196-03,Rio de Janeiro,25,1.9
+650,Sra. Sarah Silva,928.734.156-73,Varginha,30,2.05
+651,Antony Almeida,719.325.068-02,Salvador,18,2.03
+652,Rhavi Campos,946.138.752-00,Rio de Janeiro,26,2.04
+653,Srta. Ana Carolina da Cunha,031.294.756-99,Rio de Janeiro,43,2.0
+654,Emanuelly Duarte,713.529.048-88,Varginha,19,1.78
+655,Thiago Costa,287.650.943-10,Varginha,28,1.92
+656,João Pedro Nascimento,946.537.082-74,Salvador,42,1.91
+657,Srta. Yasmin Gomes,283.149.607-13,Rio de Janeiro,16,1.58
+658,Melina Silva,275.318.694-46,Salvador,35,2.07
+659,Joaquim Lima,961.073.428-69,Varginha,22,2.14
+660,Bruna da Mota,562.408.971-67,Ubatuba,39,2.06
+661,Juliana Mendes,126.435.987-09,Belo Horizonte,37,2.08
+662,Sra. Olivia Moreira,058.169.423-60,Ubatuba,22,2.0
+663,Heloisa Sampaio,370.429.618-03,Salvador,48,1.84
+664,Sarah Rezende,162.539.478-00,Belo Horizonte,38,2.0
+665,Vinícius Câmara,890.357.621-77,Guarapari,21,1.76
+666,Elisa Aparecida,315.968.740-66,Salvador,31,1.94
+667,Maria Vitória Camargo,340.257.968-56,Ubatuba,47,1.88
+668,Josué Albuquerque,748.365.902-56,Salvador,24,1.7
+669,Dom Abreu,436.519.028-89,Ubatuba,29,1.89
+670,Olívia Barros,496.820.731-03,Salvador,21,1.59
+671,Dom Porto,405.872.193-60,Ubatuba,19,1.55
+672,Luna da Mota,279.138.056-68,Belo Horizonte,23,1.54
+673,Srta. Allana Melo,756.943.280-00,Ubatuba,23,1.62
+674,Eduardo Camargo,430.819.726-04,Salvador,48,2.1
+675,Srta. Allana Correia,234.706.591-25,Varginha,48,1.9
+676,Caio Viana,489.562.370-00,Salvador,44,1.66
+677,Ana Julia Almeida,618.352.790-40,Ubatuba,47,1.68
+678,Sr. Ian Casa Grande,740.182.693-31,Guarapari,40,1.57
+679,Luiz Henrique Siqueira,403.169.872-04,Guarapari,15,1.55
+680,Ana Rios,376.498.502-00,Guarapari,49,2.03
+681,Breno Costela,078.521.693-68,Salvador,38,2.09
+682,Nicolas Gonçalves,852.169.437-73,Rio de Janeiro,20,1.61
+683,Caroline Martins,290.384.567-00,Salvador,38,1.59
+684,Fernanda Nunes,827.364.905-92,Varginha,16,1.68
+685,Srta. Maria Fernanda Nogueira,426.813.597-91,Salvador,33,1.62
+686,Ana Beatriz Viana,078.461.539-00,Belo Horizonte,19,2.07
+687,Dr. Ian das Neves,741.280.539-88,Rio de Janeiro,36,1.63
+688,Maria Júlia Freitas,573.219.046-52,Belo Horizonte,20,2.1
+689,Maya Marques,528.471.906-94,Ubatuba,32,1.71
+690,Theodoro Ramos,082.164.395-98,Belo Horizonte,36,2.01
+691,Alana Cardoso,967.528.410-20,Belo Horizonte,43,1.57
+692,Oliver da Paz,758.901.324-23,Guarapari,17,1.91
+693,Antonella Costa,735.861.429-19,Salvador,36,1.65
+694,Sra. Milena Sousa,961.532.048-05,Varginha,41,2.0
+695,Maysa Sá,876.592.301-40,Guarapari,31,1.6
+696,Alexandre Nascimento,641.857.923-28,Ubatuba,26,1.52
+697,Hadassa Santos,508.263.791-68,Salvador,46,1.81
+698,Dra. Maya Pereira,164.708.925-58,Ubatuba,40,1.7
+699,Sra. Rebeca Aragão,068.124.573-53,Rio de Janeiro,44,1.95
+700,Ana Carolina Barbosa,597.068.421-01,Salvador,37,1.95
+701,Maria Laura Lima,413.259.687-73,Guarapari,29,1.81
+702,Luiz Gustavo da Mata,687.905.214-20,Varginha,40,1.95
+703,Hellena da Rocha,609.245.783-00,Ubatuba,41,1.75
+704,Juliana Moura,208.651.497-20,Rio de Janeiro,22,1.84
+705,Diogo Silveira,650.423.817-08,Belo Horizonte,43,2.05
+706,Srta. Luísa Souza,702.534.916-06,Ubatuba,19,1.86
+707,Lorena Pacheco,478.295.036-56,Salvador,48,1.52
+708,Liam Novaes,731.869.450-20,Guarapari,25,2.05
+709,Ana Vitória Pacheco,815.672.403-80,Salvador,40,2.14
+710,Camila Lima,529.704.183-04,Belo Horizonte,20,1.95
+711,Otto Gomes,204.938.751-23,Guarapari,35,1.92
+712,Vinicius Peixoto,604.123.859-70,Salvador,20,1.93
+713,Larissa Pereira,541.890.237-79,Salvador,29,2.13
+714,Bianca Macedo,709.613.284-87,Salvador,49,1.59
+715,Anthony Gabriel Andrade,942.601.735-61,Belo Horizonte,28,1.89
+716,Luiz Miguel Sá,508.923.147-88,Guarapari,34,1.63
+717,Sr. Gael Mendes,520.693.478-00,Varginha,20,2.04
+718,Bianca Martins,902.348.561-06,Belo Horizonte,38,1.62
+719,Beatriz Melo,218.956.407-76,Guarapari,30,1.88
+720,Evelyn Siqueira,803.754.219-04,Rio de Janeiro,33,2.0
+721,Isadora Souza,657.301.928-86,Guarapari,25,1.71
+722,Mariana da Costa,521.846.390-60,Guarapari,21,1.92
+723,Catarina Novais,126.843.590-24,Varginha,28,1.51
+724,Maria Clara Nogueira,109.764.325-52,Belo Horizonte,34,1.78
+725,Anthony Gabriel Siqueira,670.548.932-47,Belo Horizonte,24,1.54
+726,Jade Marques,560.318.279-21,Varginha,28,1.82
+727,Pedro Henrique Silveira,016.845.793-84,Guarapari,34,1.59
+728,Henrique Cavalcante,725.396.804-29,Guarapari,32,1.54
+729,Dra. Manuela Moura,379.506.841-00,Belo Horizonte,41,1.82
+730,Maria Cecília Freitas,239.517.084-41,Varginha,24,2.13
+731,Davi Lucca da Rosa,483.021.965-33,Rio de Janeiro,31,1.97
+732,Mariah Monteiro,658.407.312-26,Rio de Janeiro,45,1.56
+733,Sara Fonseca,076.125.398-02,Salvador,35,2.15
+734,Lívia Ramos,794.658.230-74,Ubatuba,29,1.87
+735,Srta. Olivia Lima,305.817.269-95,Ubatuba,20,1.79
+736,Aurora Cirino,136.954.287-91,Belo Horizonte,18,1.83
+737,Mariana Siqueira,965.317.402-99,Salvador,43,2.09
+738,Isaac Machado,649.850.172-30,Rio de Janeiro,15,1.67
+739,Sarah Porto,619.287.503-03,Varginha,16,1.51
+740,Isabella Pastor,420.836.159-05,Salvador,28,1.72
+741,Lavínia Cavalcante,145.072.938-04,Ubatuba,28,1.61
+742,Calebe Nascimento,821.056.794-20,Rio de Janeiro,31,1.93
+743,Pietra Rezende,576.283.019-59,Guarapari,45,1.54
+744,Kevin Pacheco,746.901.583-39,Varginha,29,1.76
+745,Brayan Cirino,538.012.497-60,Salvador,37,2.0
+746,Murilo Novais,529.387.604-00,Salvador,50,1.54
+747,Nathan Cassiano,876.359.140-57,Varginha,44,1.87
+748,Benjamim Teixeira,385.702.496-83,Varginha,23,1.7
+749,Luiz Miguel Pires,309.618.274-40,Salvador,49,1.98
+750,Luan Abreu,604.517.823-80,Varginha,38,2.05
+751,Gustavo Henrique Leão,570.192.384-32,Belo Horizonte,37,1.85
+752,Emanuelly Pires,792.306.815-12,Belo Horizonte,40,1.68
+753,Dr. Théo da Mata,423.780.561-17,Guarapari,23,2.13
+754,João Vitor Carvalho,583.012.649-42,Rio de Janeiro,24,2.1
+755,Lucas Gabriel Casa Grande,634.701.892-69,Rio de Janeiro,24,1.85
+756,Murilo Albuquerque,263.870.954-92,Rio de Janeiro,49,1.63
+757,Melina Cavalcanti,987.406.251-76,Rio de Janeiro,32,1.62
+758,Sr. Marcelo Nogueira,312.769.540-34,Varginha,30,1.69
+759,Leandro Borges,528.609.341-89,Belo Horizonte,15,1.52
+760,Melissa Barbosa,506.849.721-58,Ubatuba,19,1.99
+761,Maria Cecília Borges,176.908.452-58,Rio de Janeiro,26,1.73
+762,José Pedro da Rocha,158.639.270-03,Varginha,49,1.87
+763,Luiza Barros,372.451.698-37,Rio de Janeiro,16,1.56
+764,Sr. Davi Lucas Casa Grande,640.281.957-30,Varginha,19,1.75
+765,Isabelly Araújo,362.791.405-80,Belo Horizonte,28,1.94
+766,Vitor Gabriel Moraes,194.630.752-16,Varginha,48,2.04
+767,Dr. Luiz Henrique Souza,897.624.051-02,Belo Horizonte,40,1.62
+768,Dra. Ana Lívia Camargo,765.289.140-01,Ubatuba,47,1.65
+769,Pietro Pastor,527.694.038-00,Rio de Janeiro,45,1.95
+770,Sr. Benício Peixoto,920.563.871-40,Rio de Janeiro,29,1.92
+771,Sr. Noah Nogueira,403.528.961-24,Ubatuba,28,2.14
+772,Isaac Abreu,756.149.038-01,Varginha,46,1.52
+773,Ana Laura Vieira,563.827.410-35,Ubatuba,45,2.04
+774,Maria Helena Leão,234.817.695-55,Rio de Janeiro,27,2.0
+775,Ana Laura Almeida,342.617.908-31,Ubatuba,16,1.81
+776,Stella Almeida,182.534.907-04,Belo Horizonte,38,1.57
+777,Leonardo Moraes,390.852.617-59,Rio de Janeiro,33,2.15
+778,Mirella Pereira,692.358.710-77,Guarapari,50,1.7
+779,Fernanda Machado,532.804.716-80,Belo Horizonte,36,1.53
+780,João Gabriel Câmara,073.289.145-05,Salvador,22,1.64
+781,Maya da Cruz,167.539.082-77,Belo Horizonte,50,1.61
+782,Rafaela Oliveira,046.831.975-10,Rio de Janeiro,18,1.59
+783,Sra. Alexia Vieira,106.792.385-30,Salvador,36,1.55
+784,Davi Lucca Marques,294.653.781-19,Guarapari,26,1.72
+785,Léo Machado,026.439.758-47,Guarapari,31,2.01
+786,Milena Ramos,183.567.049-01,Belo Horizonte,45,1.96
+787,Ana Clara Azevedo,602.138.759-77,Rio de Janeiro,15,1.78
+788,Sr. Caleb Costela,401.897.652-67,Salvador,21,1.97
+789,Hellena Novais,568.237.914-46,Ubatuba,42,1.81
+790,Sra. Antonella Vargas,389.645.021-24,Guarapari,33,2.05
+791,Emanuella Garcia,423.069.758-92,Belo Horizonte,42,2.08
+792,Levi Santos,942.106.875-02,Ubatuba,26,2.04
+793,Dr. Matteo Cirino,728.506.391-68,Varginha,47,1.61
+794,Heloísa Duarte,468.705.231-26,Guarapari,40,1.85
+795,Heloísa Dias,146.359.780-01,Varginha,40,1.95
+796,Srta. Ana Julia Pereira,614.253.890-15,Belo Horizonte,22,2.05
+797,Sabrina Fernandes,361.297.804-78,Belo Horizonte,19,2.04
+798,Vitor Gabriel Nogueira,034.826.975-74,Ubatuba,15,1.97
+799,Carolina Cavalcante,928.357.061-86,Belo Horizonte,39,1.6
+800,Antony das Neves,590.641.783-48,Guarapari,22,1.68
+801,Vicente Farias,425.376.819-91,Rio de Janeiro,27,1.56
+802,Sofia Carvalho,732.860.419-04,Ubatuba,28,1.82
+803,Diego Nascimento,156.780.293-12,Guarapari,26,2.0
+804,Isabelly Vargas,120.865.794-11,Varginha,30,1.79
+805,Arthur Albuquerque,186.357.420-44,Rio de Janeiro,45,1.55
+806,Zoe Araújo,971.065.483-75,Rio de Janeiro,48,1.66
+807,Thales da Rosa,230.154.987-97,Guarapari,42,1.57
+808,Eduardo Santos,760.194.532-43,Belo Horizonte,20,2.01
+809,Danilo Costela,056.793.214-16,Varginha,18,1.8
+810,Thiago Barbosa,310.649.275-99,Rio de Janeiro,48,1.77
+811,Miguel Porto,086.732.149-04,Guarapari,34,1.68
+812,Emanuelly Câmara,198.375.024-79,Salvador,41,1.57
+813,Danilo Santos,325.784.901-04,Varginha,33,1.82
+814,Ester das Neves,658.021.794-49,Rio de Janeiro,21,2.12
+815,Dr. Lucca Costela,714.586.920-94,Belo Horizonte,23,1.52
+816,Breno Nascimento,934.768.510-01,Ubatuba,22,1.75
+817,Dr. Yago Alves,056.437.281-17,Varginha,32,1.68
+818,Bernardo Araújo,891.572.640-58,Varginha,29,1.94
+819,Ana Beatriz Souza,831.275.694-91,Varginha,28,1.59
+820,Heitor Montenegro,128.543.096-42,Belo Horizonte,24,1.73
+821,Vicente Correia,874.692.513-91,Salvador,16,1.79
+822,Dr. Théo Pastor,983.426.715-00,Salvador,26,1.99
+823,Kaique Alves,926.037.548-74,Varginha,35,1.96
+824,Maria Luísa Pinto,825.067.319-03,Salvador,48,1.9
+825,Luigi Peixoto,702.359.846-47,Rio de Janeiro,32,1.74
+826,Mariah Martins,725.819.406-11,Ubatuba,24,1.74
+827,Jade Macedo,847.392.601-31,Belo Horizonte,19,2.15
+828,André Monteiro,576.380.942-47,Ubatuba,28,1.63
+829,Luiz Felipe Jesus,648.257.093-38,Varginha,50,2.11
+830,Ester Casa Grande,261.340.987-87,Belo Horizonte,26,1.8
+831,Giovanna Marques,629.401.578-20,Rio de Janeiro,35,2.1
+832,Luiz Fernando Rezende,021.746.835-71,Guarapari,29,2.11
+833,Eloah da Luz,268.510.943-98,Belo Horizonte,39,2.05
+834,Ana Sophia Moura,126.890.347-78,Varginha,29,1.91
+835,Sr. Arthur Miguel da Cruz,837.562.904-92,Varginha,27,1.66
+836,Laís Araújo,156.209.437-80,Rio de Janeiro,27,2.05
+837,Dr. Breno Costela,410.829.765-20,Guarapari,43,2.14
+838,Beatriz Correia,953.286.704-00,Belo Horizonte,31,1.52
+839,João Felipe Andrade,269.347.851-00,Ubatuba,47,2.12
+840,Henry Gabriel Macedo,482.056.137-53,Salvador,34,2.08
+841,Miguel Nascimento,502.793.168-95,Rio de Janeiro,21,2.03
+842,Fernanda Rezende,508.173.246-07,Belo Horizonte,21,2.11
+843,Carlos Eduardo Sampaio,054.923.187-05,Ubatuba,46,1.8
+844,Mariah da Paz,365.980.214-05,Belo Horizonte,22,1.92
+845,Dom Pastor,249.178.605-20,Varginha,32,1.83
+846,Ayla Martins,465.283.907-38,Salvador,19,2.07
+847,Stella da Cruz,417.302.658-71,Salvador,15,1.64
+848,Srta. Allana Souza,642.780.153-80,Ubatuba,17,1.65
+849,Pietro Pereira,786.354.019-48,Guarapari,19,2.11
+850,Melina Cavalcanti,963.285.047-56,Salvador,30,1.75
+851,Sr. Joaquim Correia,765.183.429-19,Belo Horizonte,31,1.95
+852,Dr. Apollo Moraes,068.514.927-76,Belo Horizonte,24,1.9
+853,Rafael Barbosa,836.590.714-39,Belo Horizonte,16,1.76
+854,Vitor Gabriel Cardoso,054.932.817-32,Ubatuba,28,2.13
+855,Vinícius Jesus,189.460.375-39,Varginha,45,2.08
+856,Srta. Sophie Azevedo,187.609.435-48,Guarapari,49,1.51
+857,Lucca Azevedo,954.361.782-19,Belo Horizonte,36,2.04
+858,Leandro Sales,496.310.528-42,Ubatuba,42,2.02
+859,Luara da Cruz,214.867.095-67,Rio de Janeiro,31,1.54
+860,Dr. Nicolas Pires,417.508.326-07,Salvador,24,2.11
+861,Aylla da Conceição,426.301.875-35,Guarapari,25,1.72
+862,Alícia da Cruz,534.076.129-07,Varginha,20,1.9
+863,Sr. Benício Vieira,329.674.185-28,Ubatuba,25,1.94
+864,Diego Nunes,742.069.518-02,Rio de Janeiro,50,1.82
+865,Arthur Montenegro,571.084.962-67,Salvador,38,1.65
+866,Isabel da Cruz,160.548.239-06,Rio de Janeiro,21,2.05
+867,Milena Ribeiro,460.317.859-00,Guarapari,21,1.8
+868,Aurora Sales,064.982.153-05,Ubatuba,41,1.76
+869,Maya Sá,297.180.354-60,Belo Horizonte,40,1.73
+870,Srta. Ana Julia Ramos,526.413.978-46,Belo Horizonte,27,2.08
+871,Luara Fonseca,270.314.596-99,Rio de Janeiro,26,1.8
+872,Murilo da Mota,853.607.941-00,Belo Horizonte,35,1.87
+873,Ágatha da Luz,215.873.694-19,Guarapari,44,1.69
+874,Maria Laura Teixeira,763.218.094-03,Belo Horizonte,19,1.96
+875,Sra. Anna Liz Aragão,780.493.261-87,Salvador,28,1.67
+876,Alexia Peixoto,930.145.728-88,Ubatuba,40,2.04
+877,Emanuella Brito,624.019.853-60,Belo Horizonte,27,1.81
+878,Erick Caldeira,098.463.157-75,Belo Horizonte,33,1.85
+879,Pedro Henrique Farias,957.386.421-55,Belo Horizonte,24,1.68
+880,Ana Vitória Vieira,273.690.185-12,Varginha,48,2.02
+881,Pedro Lucas Gomes,046.295.378-56,Ubatuba,22,1.88
+882,Mateus Azevedo,430.275.916-06,Ubatuba,48,1.83
+883,Sr. Yan Moraes,340.671.952-06,Guarapari,44,1.68
+884,Marcos Vinicius Martins,528.374.019-60,Belo Horizonte,46,1.62
+885,Dr. Vitor Moura,598.631.027-68,Guarapari,18,1.54
+886,Bruna Pimenta,750.496.231-70,Guarapari,48,1.56
+887,Sr. Davi Lucas Campos,108.763.245-53,Salvador,36,1.94
+888,Isabel da Conceição,034.715.268-62,Belo Horizonte,50,1.96
+889,Maria Alice Brito,762.980.354-00,Belo Horizonte,15,1.91
+890,Henry Novaes,475.302.186-62,Guarapari,22,1.99
+891,Dra. Ana Cecília Pires,791.082.654-02,Salvador,25,1.93
+892,Mirella Rios,275.304.619-07,Salvador,43,1.98
+893,Maya Sá,284.130.567-80,Rio de Janeiro,35,2.15
+894,Sabrina Rodrigues,431.695.870-48,Rio de Janeiro,17,1.8
+895,Maria Sophia Pires,132.709.568-86,Guarapari,31,1.73
+896,Maria Clara Montenegro,932.510.768-68,Ubatuba,18,2.04
+897,Mirella Nogueira,430.127.685-80,Ubatuba,33,1.9
+898,Asafe Lopes,197.456.203-43,Guarapari,41,2.04
+899,Juan Barros,013.487.259-23,Varginha,18,2.08
+900,Bento Siqueira,692.843.507-00,Belo Horizonte,32,1.76
+901,Sra. Catarina Fonseca,358.290.617-59,Guarapari,27,1.85
+902,Sr. Noah Santos,417.683.092-13,Belo Horizonte,28,1.51
+903,Bruna Jesus,174.638.520-08,Rio de Janeiro,35,1.82
+904,Dr. Yuri da Conceição,784.356.920-00,Guarapari,28,1.97
+905,Sr. Pedro Lucas Campos,489.675.031-48,Rio de Janeiro,47,2.03
+906,Dra. Rebeca Viana,760.351.824-53,Ubatuba,42,1.9
+907,Danilo Rocha,728.936.145-82,Belo Horizonte,21,1.66
+908,Vitor Gabriel Rocha,310.278.965-02,Salvador,16,1.75
+909,Brenda Peixoto,813.679.024-87,Ubatuba,46,1.96
+910,José Freitas,918.745.023-23,Ubatuba,21,2.09
+911,Davi Luiz Cardoso,280.149.635-98,Guarapari,23,1.9
+912,Ana Carolina Macedo,182.340.965-24,Varginha,34,2.03
+913,Benjamim Abreu,370.892.654-47,Belo Horizonte,25,1.6
+914,Lucas Gabriel Moraes,503.918.267-86,Salvador,48,2.13
+915,Theo da Luz,307.862.451-07,Ubatuba,47,1.83
+916,Ana Júlia Azevedo,756.812.904-76,Varginha,18,1.98
+917,Daniela Azevedo,436.901.528-60,Salvador,40,2.11
+918,Gabriel Novaes,645.731.029-06,Belo Horizonte,39,1.75
+919,Laís da Rocha,048.751.692-30,Belo Horizonte,29,1.54
+920,Théo Pinto,964.235.871-91,Ubatuba,50,2.11
+921,Manuela Castro,074.169.352-61,Guarapari,29,2.0
+922,Eduardo Ferreira,259.103.684-51,Belo Horizonte,20,1.78
+923,Bruna Dias,298.674.305-65,Rio de Janeiro,46,1.9
+924,Alice Moreira,256.837.941-37,Ubatuba,18,1.87
+925,Luiz Otávio Farias,547.312.086-53,Rio de Janeiro,40,2.14
+926,Olivia Fogaça,376.412.085-17,Ubatuba,44,1.82
+927,Valentim Pereira,243.817.965-19,Varginha,40,1.52
+928,Bella Teixeira,875.413.906-66,Ubatuba,16,1.58
+929,Larissa da Luz,731.540.928-97,Varginha,15,1.61
+930,Miguel Moraes,579.132.406-52,Belo Horizonte,16,2.07
+931,Bryan Moura,231.879.045-05,Guarapari,30,1.81
+932,Kaique Mendes,243.958.706-00,Rio de Janeiro,36,2.05
+933,Ana Cecília Teixeira,920.684.513-60,Salvador,23,2.05
+934,Fernanda Albuquerque,458.270.916-85,Varginha,29,1.78
+935,José Miguel Melo,630.519.287-12,Varginha,44,2.04
+936,João Miguel Castro,507.362.489-00,Belo Horizonte,24,1.61
+937,Marcela Novais,564.082.739-47,Salvador,46,1.94
+938,Natália Porto,018.576.239-59,Varginha,43,1.84
+939,Ana Beatriz Silva,094.781.352-79,Varginha,31,1.52
+940,Antonella Correia,380.964.725-00,Belo Horizonte,24,1.57
+941,Eloá Santos,836.729.014-31,Varginha,46,1.82
+942,Sophia Aparecida,295.438.106-05,Guarapari,24,2.07
+943,Thales Nunes,195.728.063-86,Salvador,41,1.72
+944,Carlos Eduardo da Cunha,704.165.328-53,Rio de Janeiro,41,1.69
+945,Daniel Cunha,419.357.028-23,Belo Horizonte,46,1.92
+946,Júlia Pimenta,947.580.263-00,Rio de Janeiro,19,1.62
+947,Caroline da Rosa,517.932.046-16,Rio de Janeiro,18,1.66
+948,Isadora Jesus,021.347.986-96,Varginha,23,1.81
+949,Leonardo Guerra,862.104.753-53,Varginha,50,1.56
+950,Dr. Arthur Leão,165.403.287-53,Belo Horizonte,38,1.86
+951,Sr. João Guilherme Dias,495.206.713-07,Belo Horizonte,15,1.6
+952,Srta. Hellena da Rosa,510.472.389-50,Belo Horizonte,18,1.9
+953,Benício da Conceição,834.702.196-13,Salvador,16,1.89
+954,Bella Machado,472.089.153-50,Rio de Janeiro,24,1.93
+955,Sabrina Novais,160.473.982-78,Rio de Janeiro,38,1.95
+956,Jade Silva,568.270.943-83,Salvador,21,1.63
+957,Milena Lopes,386.920.514-89,Ubatuba,38,1.88
+958,Laura Borges,316.945.720-99,Guarapari,25,1.66
+959,Raul Albuquerque,653.294.871-37,Belo Horizonte,16,1.97
+960,Oliver Melo,156.347.920-61,Ubatuba,15,1.66
+961,Sofia Machado,832.401.759-32,Belo Horizonte,32,1.77
+962,Dra. Maria Cecília Farias,105.439.762-70,Belo Horizonte,36,1.97
+963,José Miguel Lima,795.024.683-92,Guarapari,36,2.04
+964,Kamilly Porto,756.913.402-80,Belo Horizonte,29,1.81
+965,Valentina Vargas,314.975.028-88,Ubatuba,31,1.83
+966,Helena Rodrigues,621.403.579-06,Ubatuba,24,1.96
+967,Fernando Alves,905.173.648-75,Belo Horizonte,48,1.59
+968,Júlia Lopes,784.312.960-03,Salvador,33,1.98
+969,Lunna Farias,026.974.135-61,Ubatuba,50,1.73
+970,Sra. Ana Liz Câmara,768.012.953-30,Belo Horizonte,46,1.92
+971,Eloah Oliveira,892.670.453-00,Belo Horizonte,34,1.69
+972,Dr. Igor Mendonça,640.395.182-33,Varginha,50,1.84
+973,Caleb Gonçalves,017.329.845-14,Guarapari,46,1.95
+974,Pedro Miguel da Paz,952.374.860-29,Belo Horizonte,48,1.95
+975,Benjamin Costela,790.641.583-39,Rio de Janeiro,38,2.09
+976,Sr. Enzo Gabriel Novais,957.203.461-80,Guarapari,47,1.58
+977,Sarah Correia,937.805.461-75,Guarapari,50,1.83
+978,Ana Júlia Ferreira,489.276.015-30,Belo Horizonte,48,1.69
+979,Bernardo Moraes,890.231.574-60,Varginha,49,1.73
+980,Guilherme Freitas,934.870.526-10,Ubatuba,16,2.13
+981,Ana Beatriz Moraes,283.574.610-26,Rio de Janeiro,40,2.06
+982,Srta. Giovanna Aragão,786.419.203-31,Varginha,32,1.73
+983,João Lucas Pereira,251.680.973-59,Belo Horizonte,43,1.57
+984,Ágatha da Costa,493.067.215-52,Ubatuba,16,1.85
+985,João Vitor Freitas,509.468.731-00,Varginha,39,1.68
+986,Arthur Gabriel Alves,943.725.160-61,Guarapari,24,1.54
+987,Maria Flor Jesus,857.061.932-40,Salvador,37,1.79
+988,André Novaes,637.059.124-61,Salvador,49,2.01
+989,Marina Pacheco,028.436.751-62,Belo Horizonte,22,1.86
+990,Stella Camargo,283.046.759-00,Belo Horizonte,38,1.65
+991,Jade Cavalcante,459.321.876-46,Varginha,43,1.56
+992,Benjamim Silveira,836.159.427-28,Rio de Janeiro,18,1.53
+993,Mariah Aparecida,248.903.156-24,Rio de Janeiro,33,1.9
+994,Juliana Almeida,693.420.751-34,Belo Horizonte,35,1.59
+995,Gael Sá,783.206.914-78,Guarapari,42,1.84
+996,Bento Pires,460.275.891-67,Salvador,39,1.67
+997,Dra. Maysa Sales,718.062.354-71,Rio de Janeiro,31,1.53
+998,Dra. Amanda Câmara,640.917.825-58,Ubatuba,31,1.98
+999,Antônio Machado,159.087.463-39,Ubatuba,19,1.51
+1000,Emanuel Costa,640.187.592-58,Rio de Janeiro,34,1.82
